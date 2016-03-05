@@ -23,7 +23,7 @@ Méthodes par étapes :
 Le format de soirée se déroule de la façon suivante :
 
 * Un temps d’arrivée + jeu icebreaking (par exemple, chercher les autres participants avec une description approximative) pour que chacun ait un prétexte pour engager la conversation avec un peu tout le monde, demander ce que les autres participants font dans la vie et se présenter .  ==> exemple de questionnaire utilisé pour retrouver les autres participants d'après les réponses [ici](http://goo.gl/forms/nDdc2BpC7o)
-* Un temps bref de présentation des initiatives (3’) répondant aux questions principale : xxx (il est recommender d’envoyer en amont un message à chaque présentant pour cibler avec lui les éléments clés de sa présentation), entrecoupé idéalement d’une pause.
+* Un temps bref de présentation des initiatives (3’) répondant aux questions principale : (il est recommender d’envoyer en amont un message à chaque présentant pour cibler avec lui les éléments clés de sa présentation), entrecoupé idéalement d’une pause.
 * Un temps d’échanges et d’activités annexes.
 
 Format des présentations : 
