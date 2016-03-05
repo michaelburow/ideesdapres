@@ -12,13 +12,13 @@ Idées d’Après est une association engagée dans la médiation interdisciplin
 
 ## Procédure :
 
-##Mobilisation :
+*##Mobilisation :
 
 Ne pas hésiter à inviter sans se restreindre sur les horizons, bien au contraire, ce qui fait l’intérêt de la démarche c’est justement de réunir des gens qui n’ont pas l’occasion de se parler dans leurs réseaux habituels.
 
 Chercher large autour du thème, quitte à jouer sur les mots pour mieux montrer les ponts ensuite : rester en veille quelques temps sur le théme choisi, arpenter des sites web, des blogs; lancer des requêtes sur différents moteurs de recherche, utiliser Twitter et les outils associés (ex. followerwonks), demander des idées à ses contacts Facebook et Twitter. Faire l’exercice de penser au sujet selon différents axes, se demander comment différentes disciplines (scientifiques, de sciences humaines, artistiques, sportives, etc.) verraient le sujet, comment différentes générations percevraient le thème, comment différents métiers l’aborderaient, etc.
 
-## Méthodes par étapes :
+*## Méthodes par étapes :
 
 Le format de soirée se déroule de la façon suivante :
 
