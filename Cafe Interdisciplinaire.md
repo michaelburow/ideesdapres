@@ -1,5 +1,6 @@
 # Café Interdisciplinaire : 
 
+![Des temps d'échanges](https://static.wixstatic.com/media/b90427_14f7054cd34c40e98adfa9bc6195b1d4.jpg/v1/fill/w_960,h_540,al_c,q_90/b90427_14f7054cd34c40e98adfa9bc6195b1d4.jpg)
 
 ## En une phrase :
 
@@ -36,7 +37,7 @@ Attention à garder assez de temps pour laisser les gens échanger.
 Envoyer ensuite un rapide compte-rendu pour que tous les participants aient l’ensemble des informations sur les initiatives présentées et puisse prolonger les interactions
 Possibilité de laisser dans la salle une boîte à idées/carte de visites
 
-![Des temps d'échanges](https://static.wixstatic.com/media/b90427_14f7054cd34c40e98adfa9bc6195b1d4.jpg/v1/fill/w_960,h_540,al_c,q_90/b90427_14f7054cd34c40e98adfa9bc6195b1d4.jpg)
+
 
 ## Sources : 
 Exemple : Café d’@pres sur le thème de l’ “Expedition” 
