@@ -12,7 +12,7 @@ Idées d’Après est une association engagée dans la médiation interdisciplin
 
 ## Procédure :
 
-*Mobilisation :
+* Mobilisation :
 
 Ne pas hésiter à inviter sans se restreindre sur les horizons, bien au contraire, ce qui fait l’intérêt de la démarche c’est justement de réunir des gens qui n’ont pas l’occasion de se parler dans leurs réseaux habituels.
 
